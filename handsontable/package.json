@@ -81,7 +81,9 @@
     "dompurify": "^2.1.1",
     "moment": "2.29.4",
     "numbro": "2.1.2",
-    "pikaday": "1.8.2"
+    "pikaday": "1.8.2",
+    "postcss": "^8.4.25",
+    "postcss-discard-comments": "^6.0.0"
   },
   "optionalDependencies": {
     "hyperformula": "^2.4.0"
